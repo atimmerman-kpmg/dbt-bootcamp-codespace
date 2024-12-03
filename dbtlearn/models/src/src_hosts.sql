@@ -12,4 +12,4 @@ SELECT
     created_at,
     updated_at
 FROM
-    raw_hosts;
+    raw_hosts
